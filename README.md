@@ -1,7 +1,6 @@
 # covid19-global-data-tracker
 A data analysis project that visualizes global COVID-19 trends using real-world data.
 
-# COVID-19 Global Data Tracker
 
 ## Project Overview
 This project is a comprehensive data analysis and visualization report tracking global COVID-19 trends. Using real-world data, the tracker explores cases, deaths, recoveries, and vaccination progress across multiple countries over time. The project aims to provide insightful visualizations and narratives that help understand the pandemic's evolution worldwide.
